@@ -1,0 +1,19 @@
+Metadata-Version: 1.2
+Name: sos-api-client
+Version: 1.0
+Summary: sos api client
+Home-page: UNKNOWN
+Author: sos data team
+License: GPLv3+
+Description: Star Of Service api client
+Platform: UNKNOWN
+Classifier: Development Status :: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Framework :: Flask
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.7
